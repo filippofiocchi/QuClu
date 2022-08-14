@@ -11,7 +11,5 @@ setup(
     url='https://github.com/filippofiocchi/QuClu',
     download_url = 'https://github.com/filippofiocchi/QuClu/archive/refs/tags/0.0.1.tar.gz',
     install_requires=['numpy','scipy','pandas'],
-    setup_requires=['pytest-runner'],
-    tests_require=['pytest==4.4.1'],
-    test_suite='tests'
+    setup_requires=['pytest-runner']
 )
