@@ -1,0 +1,15 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+QuClu/__init__.py
+QuClu/myfunctions.py
+QuClu.egg-info/PKG-INFO
+QuClu.egg-info/SOURCES.txt
+QuClu.egg-info/dependency_links.txt
+QuClu.egg-info/requires.txt
+QuClu.egg-info/top_level.txt
+tests/__init__.py
+tests/test_myfunctions.py
