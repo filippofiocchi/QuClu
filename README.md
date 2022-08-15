@@ -1,7 +1,7 @@
 # Quantile-Based-Clustering
 This is a Python library for Quantile-based clustering[1].
 All four algorithms are implemented.
-Download on you pc using $\verb|pip install QuClu.py|$
+Download on you pc using $pip install QuClu$
 
 
 ## Bibliography
